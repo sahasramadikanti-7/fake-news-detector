@@ -1,0 +1,6 @@
+.venv/
+.venv-1/
+venv/
+assets/venv/
+.streamlit/secrets.toml
+.env
